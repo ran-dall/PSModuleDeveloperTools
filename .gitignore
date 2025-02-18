@@ -1,0 +1,16 @@
+# Ignore build artifacts and temporary files
+*.zip
+*.nupkg
+*.nuspec
+*.tmp
+*.cache
+
+# Ignore user-specific files and IDE settings
+*.user
+.vscode/
+
+# Log files
+*.log
+
+# Ignore directory exports
+DirectoryContents.txt
